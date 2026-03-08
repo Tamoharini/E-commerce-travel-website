@@ -16,6 +16,4 @@ The Travel Website is designed to showcase different tourist destinations with a
 ## 🛠️ Technologies Used
 - HTML– Structure of the website  
 - CSS– Styling and layout design  
-- **JavaScript** – Interactive functionality
-
-## 📂 Project Structure
+- JavaScript – Interactive functionality
